@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sparsh882/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sparsh882/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sparsh882/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sparsh882/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -27,6 +29,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sparsh882/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sparsh882/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Prefix Sum
 |  |
 | ------- |
