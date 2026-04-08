@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | [2573-find-the-string-with-lcp](https://github.com/sparsh882/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sparsh882/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sparsh882/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sparsh882/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
 | ------- |
@@ -68,4 +70,8 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sparsh882/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
