@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 ## Array
 |  |
 | ------- |
+| [1848-minimum-distance-to-the-target-element](https://github.com/sparsh882/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sparsh882/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sparsh882/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/sparsh882/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
