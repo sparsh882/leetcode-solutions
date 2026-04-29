@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | [2463-minimum-total-distance-traveled](https://github.com/sparsh882/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/sparsh882/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sparsh882/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3225-maximum-score-from-grid-operations](https://github.com/sparsh882/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3488-closest-equal-element-queries](https://github.com/sparsh882/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sparsh882/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -47,11 +48,13 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sparsh882/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/sparsh882/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sparsh882/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3225-maximum-score-from-grid-operations](https://github.com/sparsh882/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sparsh882/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sparsh882/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/sparsh882/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -70,6 +73,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sparsh882/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/sparsh882/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/sparsh882/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
+| [3225-maximum-score-from-grid-operations](https://github.com/sparsh882/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Greedy
 |  |
 | ------- |
