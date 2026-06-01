@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sparsh882/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sparsh882/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sparsh882/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sparsh882/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/sparsh882/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/sparsh882/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sparsh882/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -35,6 +36,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sparsh882/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sparsh882/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sparsh882/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/sparsh882/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sparsh882/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Heap (Priority Queue)
@@ -80,6 +82,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 ## Greedy
 |  |
 | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sparsh882/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/sparsh882/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sparsh882/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Union-Find
