@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | [3225-maximum-score-from-grid-operations](https://github.com/sparsh882/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3488-closest-equal-element-queries](https://github.com/sparsh882/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sparsh882/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sparsh882/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Math
@@ -39,6 +40,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sparsh882/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/sparsh882/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sparsh882/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -85,6 +87,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sparsh882/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/sparsh882/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sparsh882/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -107,4 +110,9 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 |  |
 | ------- |
 | [3488-closest-equal-element-queries](https://github.com/sparsh882/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
