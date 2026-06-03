@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | [3488-closest-equal-element-queries](https://github.com/sparsh882/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sparsh882/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sparsh882/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sparsh882/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Math
@@ -41,6 +42,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | [2463-minimum-total-distance-traveled](https://github.com/sparsh882/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sparsh882/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sparsh882/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -88,6 +90,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | [2573-find-the-string-with-lcp](https://github.com/sparsh882/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sparsh882/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sparsh882/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -111,8 +114,10 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | ------- |
 | [3488-closest-equal-element-queries](https://github.com/sparsh882/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sparsh882/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sparsh882/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 <!---LeetCode Topics End-->
