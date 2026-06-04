@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sparsh882/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sparsh882/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sparsh882/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sparsh882/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
 |  |
@@ -83,6 +84,7 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | [2463-minimum-total-distance-traveled](https://github.com/sparsh882/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/sparsh882/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sparsh882/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -120,4 +122,8 @@ This repository contains my solutions to LeetCode problems implemented mainly in
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sparsh882/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sparsh882/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
